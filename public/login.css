@@ -1,0 +1,16 @@
+.completed{
+  text-decoration: line-through;
+}
+
+
+body{
+  text-align: center;
+  margin-top: 3%;
+  background-image: url(img/americano-e1522545816957.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+form{
+  margin-top: 3%;
+}

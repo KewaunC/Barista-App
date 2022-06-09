@@ -1,0 +1,16 @@
+.completed{
+  text-decoration: line-through;
+}
+
+
+body{
+  text-align: center;
+  margin-top: 3%;
+  background-image: url(img/dry-cappuccino-easy-recipe-XS.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+form{
+  margin-top: 3%;
+}

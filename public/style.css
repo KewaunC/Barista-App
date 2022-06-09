@@ -1,3 +1,26 @@
 .completed{
   text-decoration: line-through;
 }
+
+
+body{
+  text-align: center;
+  background-image: url(img/images.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  text-align: center; 
+ 
+}
+
+button{
+  margin-top: 3%;
+  color: white;
+  background-color: brown;
+}
+
+.note{
+  margin-top: 1%;
+}
